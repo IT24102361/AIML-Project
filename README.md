@@ -1,4 +1,5 @@
 **Project Overview**
+
 Depression among students is a growing concern worldwide, often resulting from
 academic stress, social pressure, financial difficulties, and personal challenges.
 Early detection of depressive tendencies can play a vital role in providing timely
@@ -17,10 +18,12 @@ system. It is envisioned as part of a broader mental health support framework th
 enhances student well-being and academic success.
 
 **Dataset Description**
+
 Dataset Source: https://www.kaggle.com/datasets/adilshamim8/student-
 depression-dataset. Number of Rows: 140,699 (Balanced 41.7% - 58.3%split). Number of Features: 18. Purpose: Predict whether a student is depressed or not.
 
 **Roles of the group members**
+
 IT24102351- R.M.Islah - Feature Creation, Data Imputation & Estimation
 IT24102326-Dadallage.S - Data Representation
 IT24102380-Fernando K.S.N.A - Feature Scaling
